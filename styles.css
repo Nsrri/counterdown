@@ -1,0 +1,38 @@
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+html{
+    background-color: rgb(17, 15, 15);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    
+    background-color: rgb(10, 155, 155);
+    width: 80vw;
+    height: 100vh;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.display-count{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+div{
+    font-size:100px;
+    font-weight: bold;
+    color: #fff;
+    margin-top: 14rem;
+}
+#time-to-work{
+    font-size: large;
+    
+}
